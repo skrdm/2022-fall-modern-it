@@ -5,7 +5,7 @@ Course at Saint Petersburg Polytechnic University
 ## Syllabus
 
 01. [OR] Introducton
-02. [OR] Machine learning introduction
+02. [ML] Machine learning introduction
 03. [PT] Python introduction: Basics
 04. [PT] Python introduction: OOP and packages
 05. [PT] Python introduction: libraries
